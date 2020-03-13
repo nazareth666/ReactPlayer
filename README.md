@@ -1,2 +1,0 @@
-# ReactPlayer
-Created with CodeSandbox
